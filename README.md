@@ -45,6 +45,7 @@
 
  #### Technologies
  * Python version  3.9
+ * Tableau
 
 
  #### Tools
